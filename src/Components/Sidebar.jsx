@@ -140,3 +140,4 @@ const FilterList = ({ items, selectedItems, type, handleFilterChange }) => (
 );
 
 export default Sidebar;
+// comment 
